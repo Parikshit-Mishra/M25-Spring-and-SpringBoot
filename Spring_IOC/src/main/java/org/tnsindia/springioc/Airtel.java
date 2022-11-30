@@ -12,7 +12,7 @@ public class Airtel implements Sim {
 		System.out.println("Internet using Airtel");
 		
 	}
-
+	//Constructor
 	public Airtel() {
 		super();
 		System.out.println("Airtel class constructor");

@@ -4,7 +4,10 @@
     xmlns:context="http://www.springframework.org/schema/context" xsi:schemaLocation="
         http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd
         http://www.springframework.org/schema/context http://www.springframework.org/schema/context/spring-context.xsd"> <!-- bean definitions here -->
-<bean id="sim" class="org.tnsindia.springioc.Jio"></bean>
-<!--comment-->
-<!--bean id="jio" class="org.tnsindia.springioc.Jio"></bean-->
+
+
+<bean id="sim" class ="org.tnsindia.springioc.Jio"></bean>
+<!-- Comment-->
+<!--bean id="jio" class ="org.tnsindia.springioc.Jio"></bean-->
 </beans>
+
