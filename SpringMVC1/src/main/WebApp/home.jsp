@@ -7,6 +7,6 @@ pageEncoding="ISO-8859-1"%>
 <title>Insert Title Hear</title>
 </HEAD>
 <BODY>
-	<H1> Nama and Isha love you </H1>
+	<H1> I Love India </H1>
 </BODY>
 </HTML>	
